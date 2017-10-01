@@ -1,0 +1,8 @@
+{
+  "name": "assets",
+  "version": "1.0.0",
+  "description": "Project Assets",
+  "main": "index.js",
+  "author": "Marco Puccio",
+  "license": "MIT"
+}
